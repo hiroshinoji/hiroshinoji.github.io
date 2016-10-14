@@ -6,7 +6,7 @@ title: Hiroshi Noji
 
 Assistant Professor
 
-[Computationl Linguistics Laboratory](https://cl.naist.jp/en/) \\
+[Computational Linguistics Laboratory](https://cl.naist.jp/en/) \\
 [Graduate School of Information Science](http://isw3.naist.jp/home-en.html) \\
 Nara Institute of Science and Technology (NAIST)
 
@@ -20,7 +20,7 @@ What is the root of such general principle of language, if exists?
 I like the functionalist hypothesis for this question that language may have evolved to make our communication more efficient.
 If we can understand quantitatively what makes our communication efficient, then that will be also essential for future models and algorithms to understand languages for computers.
 
-In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on finding such general principles in the grammars using linguistic data of more than 20 languages and applied the idea successfully into the task of unsupervised grammar induction, or unsupervised parsing.
+In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on finding such general principles in the grammars using corpora (treebanks) of more than 20 languages and applied the idea successfully into the task of unsupervised grammar induction, or unsupervised parsing.
 
 ### Publications
 
