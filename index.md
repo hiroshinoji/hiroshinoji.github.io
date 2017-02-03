@@ -24,7 +24,7 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 ### Publications
 
-1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
+1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017 (to appear).  
    [pdf]  [[bib](bibtex.html#kohita-noji-matsu2017a)]  
 1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
