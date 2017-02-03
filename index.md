@@ -25,7 +25,10 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 ### Publications
 
 1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
-   Hiroshi Noji, Yusuke Miyao, and Mark Johnson, *EMNLP* 2016 (to appear).  
+   Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017 (to appear).  
+   [pdf]  [[bib](bibtex.html#kohita-noji-matsu2017a)]  
+1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
+   Hiroshi Noji, Yusuke Miyao, and Mark Johnson, *EMNLP* 2016.  
    [[pdf]({{ site.baseurl }}/papers/noji-miyao-johnson-emnlp16.pdf)]  [[slides](slides/emnlp16-slides.pdf)]  [[system](https://github.com/hiroshinoji/lcdmv)]  [[bib](bibtex.html#noji-miyao-johnson2016a)]  
   
 1. **Jigg: A Framework for an Easy Natural Language Processing Pipeline**  
