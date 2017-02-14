@@ -26,10 +26,10 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017 (to appear).  
-   [pdf]  [[bib](bibtex.html#kohita-noji-matsu2017a)]  
+   [[pdf]({{ site.baseurl }}/papers/kohita-noji-matsumoto-eacl2017.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017a)]  
 1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
    Hiroshi Noji, Yusuke Miyao, and Mark Johnson, *EMNLP* 2016.  
-   [[pdf]({{ site.baseurl }}/papers/noji-miyao-johnson-emnlp16.pdf)]  [[slides](slides/emnlp16-slides.pdf)]  [[system](https://github.com/hiroshinoji/lcdmv)]  [[bib](bibtex.html#noji-miyao-johnson2016a)]  
+   [[pdf](https://www.aclweb.org/anthology/D/D16/D16-1004.pdf)]  [[slides](slides/emnlp16-slides.pdf)]  [[system](https://github.com/hiroshinoji/lcdmv)]  [[bib](bibtex.html#noji-miyao-johnson2016a)]  
   
 1. **Jigg: A Framework for an Easy Natural Language Processing Pipeline**  
    Hiroshi Noji and Yusuke Miyao, *ACL* 2016 (demo track).  
