@@ -25,7 +25,7 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
    Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *ACL* 2017 (to appear).  
-   [pdf]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
+   [[pdf](https://arxiv.org/pdf/1704.06936.pdf)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
 1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017.  
    [[pdf](https://www.aclweb.org/anthology/E/E17/E17-2001.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017a)]  
