@@ -24,11 +24,17 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 ### Publications
 
 1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
+   Motoki Sato, Hiroshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies.  
+   [[pdf](http://universaldependencies.org/conll17/proceedings/pdf/K17-3007.pdf)]  [[bib](bibtex.html#sato-manabe-noji-matsumoto2017a)]  
+
+1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
    Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *ACL* 2017 (to appear).  
    [[pdf](https://arxiv.org/pdf/1704.06936.pdf)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
+  
 1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017.  
    [[pdf](https://www.aclweb.org/anthology/E/E17/E17-2001.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017a)]  
+  
 1. **Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction**  
    Hiroshi Noji, Yusuke Miyao, and Mark Johnson, *EMNLP* 2016.  
    [[pdf](https://www.aclweb.org/anthology/D/D16/D16-1004.pdf)]  [[slides](slides/emnlp16-slides.pdf)]  [[system](https://github.com/hiroshinoji/lcdmv)]  [[bib](bibtex.html#noji-miyao-johnson2016a)]  
