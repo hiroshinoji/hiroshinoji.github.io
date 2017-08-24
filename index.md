@@ -14,21 +14,25 @@ Nara Institute of Science and Technology (NAIST)
 
 ### Research
 
-I'm working on computational linguistics and natural language processing with a particular interest on the common, or universal, structural properties that may exist in all languages in the world.
+I'm working on computational linguistics and natural language processing, with a particular interest on the common, or universal, structural properties that may exist in all languages in the world.
 What is the root of such general principle of language, if exists?
 I like the functionalist hypothesis for this question that language may have evolved to make our communication more efficient.
-If we can understand quantitatively what makes our communication efficient, then that will be also essential for future models and algorithms to understand languages for computers.
+I enjoy to quantitatively examine a linguistic hypothesis on large-scale corpora using computational methods, and implement the found mechanism in an NLP system.
 
 In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on finding such general principles in the grammars using corpora (treebanks) of more than 20 languages and verified the effects of the found universal constraints in the task of unsupervised grammar induction, or unsupervised parsing.
 
 ### Publications
 
+1. **Effective Online Reordering with Arc-Eager Transitions**  
+   Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *IWPT* 2017 (to appear).  
+   [pdf]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
+  
 1. **Adversarial Training for Cross-Domain Universal Dependency Parsing**  
    Motoki Sato, Hitoshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 (Shared Task).  
    [[pdf](http://universaldependencies.org/conll17/proceedings/pdf/K17-3007.pdf)]  [[bib](bibtex.html#sato-manabe-noji-matsumoto2017a)]  
-
+  
 1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
-   Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *ACL* 2017 (to appear).  
+   Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *ACL* 2017.  
    [[pdf](https://arxiv.org/pdf/1704.06936.pdf)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
   
 1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
