@@ -25,7 +25,7 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 1. **Effective Online Reordering with Arc-Eager Transitions**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *IWPT* 2017 (to appear).  
-   [pdf]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
+   [[pdf](papers/kohita-noji-matsumoto-iwpt2017.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
   
 1. **Adversarial Training for Cross-Domain Universal Dependency Parsing**  
    Motoki Sato, Hitoshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 (Shared Task).  
