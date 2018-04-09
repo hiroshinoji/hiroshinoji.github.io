@@ -36,7 +36,8 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
    [[pdf](http://aclweb.org/anthology/W/W17/W17-6313.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
   
 1. **Adversarial Training for Cross-Domain Universal Dependency Parsing**  
-   Motoki Sato, Hitoshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 (Shared Task).  6-th ranked among 33 participants.  
+   Motoki Sato, Hitoshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 (Shared Task).  
+   <font color="red">6-th ranked among 33 participants</font>.  
    [[pdf](http://universaldependencies.org/conll17/proceedings/pdf/K17-3007.pdf)]  [[bib](bibtex.html#sato-manabe-noji-matsumoto2017a)]  
   
 1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
