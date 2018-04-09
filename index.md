@@ -23,9 +23,17 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 ### Publications
 
+1. **Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning**  
+   Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *NAACL* 2018.  
+   [pdf]  [[bib](bibtex.html#yoshikawa-et-al2018a)]  
+
+1. **Can Discourse Relations be Identified Incrementally?**  
+   Frances Yung, Hiroshi Noji, and Yuji Matsumoto, *IJCNLP* 2017.  
+   [[pdf](http://aclweb.org/anthology/I/I17/I17-2027.pdf)]  [[bib](bibtex.html#frances-noji-matsumoto2017a)]  [[notes](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Notes.pdf)] [[dataset](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Datasets.tgz)]  
+
 1. **Effective Online Reordering with Arc-Eager Transitions**  
-   Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *IWPT* 2017 (to appear).  
-   [[pdf](papers/kohita-noji-matsumoto-iwpt2017.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
+   Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *IWPT* 2017.  
+   [[pdf](http://aclweb.org/anthology/W/W17/W17-6313.pdf)]  [[bib](bibtex.html#kohita-noji-matsumoto2017b)]  
   
 1. **Adversarial Training for Cross-Domain Universal Dependency Parsing**  
    Motoki Sato, Hitoshi Manabe, Hiroshi Noji, and Yuji Matsumoto, *CoNLL* 2017 (Shared Task).  
