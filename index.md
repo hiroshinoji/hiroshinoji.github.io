@@ -29,7 +29,7 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 1. **Can Discourse Relations be Identified Incrementally?**  
    Frances Yung, Hiroshi Noji, and Yuji Matsumoto, *IJCNLP* 2017.  
-   [[pdf](http://aclweb.org/anthology/I/I17/I17-2027.pdf)]  [[bib](bibtex.html#frances-noji-matsumoto2017a)]  [[notes](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Notes.pdf)] [[dataset](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Datasets.tgz)]  
+   [[pdf](http://aclweb.org/anthology/I/I17/I17-2027.pdf)]  [[bib](bibtex.html#yung-noji-matsumoto2017a)]  [[notes](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Notes.pdf)] [[dataset](http://aclweb.org/anthology/attachments/I/I17/I17-2027.Datasets.tgz)]  
 
 1. **Effective Online Reordering with Arc-Eager Transitions**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *IWPT* 2017.  
