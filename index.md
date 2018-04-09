@@ -24,7 +24,7 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 ### Publications
 
 1. **Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning**  
-   Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *NAACL* 2018.  
+   Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *NAACL-HLT* 2018.  
    [pdf]  [[bib](bibtex.html#yoshikawa-et-al2018a)]  
 
 1. **Can Discourse Relations be Identified Incrementally?**  
