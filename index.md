@@ -4,28 +4,38 @@ title: Hiroshi Noji
 ---
 {% include JB/setup %}
 
-Assistant Professor
+Researcher
 
-[Computational Linguistics Laboratory](https://cl.naist.jp/en/) \\
-[Graduate School of Information Science](http://isw3.naist.jp/home-en.html) \\
-Nara Institute of Science and Technology (NAIST)
+[Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/) \\
+National Institute of Advanced Industrial Science and Technology (AIST)
 
-**Contact:** noji [at] is.naist.jp
+**Contact:** hiroshi.noji [at] aist.go.jp
+
+I have moved from NAIST to AIST in April 2018.
 
 ### Research
 
-I'm working on computational linguistics and natural language processing, with a particular interest on the common, or universal, structural properties that may exist in all languages in the world.
-What is the root of such general principle of language, if exists?
-I like the functionalist hypothesis for this question that language may have evolved to make our communication more efficient.
-I enjoy to quantitatively examine a linguistic hypothesis on large-scale corpora using computational methods, and implement the found mechanism in an NLP system.
+My research interest is to uncover structural, or other linguistic biases exist in natural language, and explore the interaction between such insights into language and natural language processing applications.
 
-In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on finding such general principles in the grammars using corpora (treebanks) of more than 20 languages and verified the effects of the found universal constraints in the task of unsupervised grammar induction, or unsupervised parsing.
+While end-to-end approaches get much popularity in recent NLP, it seems unlikely that all aspects of language can be learned in a completely data-driven manner. My current interest is to investigate which aspects of language can or cannot be acquired from the data alone, to know how we can make NLP systems more robust, and ultimately humanlike.
+
+I'm also interested in formalisms of syntactic and semantic representations, as well as an efficient algorithm for a particular model, in particular involving structured prediction. Examples of this work include our ACL 2017, EMNLP 2016, and ACL 2015 papers.
+
+My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a syntactic principle, universal across languages, and applying it to unsupervised grammar induction (unsupervised parsing).
 
 ### Publications
 
+1. **An Empirical Investigation of Error Types in Vietnamese Parsing**  
+   Quy Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung Nguyen, *COLING* 2018.  
+   [pdf]  [[bib](bibtex.html#nguyen-et-al2018a)]  
+
+1. **Dynamic Feature Selection with Attention in Incremental Parsing**  
+   Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *COLING* 2018.  
+   [pdf]  [[bib](bibtex.html#kohita-et-al2018a)]  
+
 1. **Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *NAACL-HLT* 2018.  
-   [pdf]  [[bib](bibtex.html#yoshikawa-et-al2018a)]  
+   [[pdf](http://aclweb.org/anthology/N18-2065)]  [[bib](bibtex.html#yoshikawa-et-al2018a)]  
 
 1. **Can Discourse Relations be Identified Incrementally?**  
    Frances Yung, Hiroshi Noji, and Yuji Matsumoto, *IJCNLP* 2017.  
@@ -106,7 +116,9 @@ In my [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) (1.8M), I worked on
 
 ### Experience
 
-- April 2016 - present: Assistant Professor at Nara Institute of Science and Technology (NAIST).
+- April 2018 - : Researcher at Artificial Intelligence Research Center, AIST.  
+
+- April 2016 - March 2018: Assistant Professor at Nara Institute of Science and Technology (NAIST).
   
 - 2013 - 2016: Research assistant at NII
   
