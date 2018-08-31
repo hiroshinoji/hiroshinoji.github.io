@@ -27,11 +27,11 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 1. **An Empirical Investigation of Error Types in Vietnamese Parsing**  
    Quy Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung Nguyen, *COLING* 2018.  
-   [pdf]  [[bib](bibtex.html#nguyen-et-al2018a)]  
+   [[pdf](http://aclweb.org/anthology/C18-1260)]  [[bib](bibtex.html#nguyen-et-al2018a)]  
 
 1. **Dynamic Feature Selection with Attention in Incremental Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *COLING* 2018.  
-   [pdf]  [[bib](bibtex.html#kohita-et-al2018a)]  
+   [[pdf](http://aclweb.org/anthology/C18-1067)]  [[bib](bibtex.html#kohita-et-al2018a)]  
 
 1. **Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *NAACL-HLT* 2018.  
