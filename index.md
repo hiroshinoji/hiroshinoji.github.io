@@ -25,6 +25,10 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 ### Publications
 
+1. **Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference**  
+   Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *AAAI* 2019.  
+   [[pdf](https://arxiv.org/pdf/1811.06203.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019a)]  
+
 1. **An Empirical Investigation of Error Types in Vietnamese Parsing**  
    Quy Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung Nguyen, *COLING* 2018.  
    [[pdf](http://aclweb.org/anthology/C18-1260)]  [[bib](bibtex.html#nguyen-et-al2018a)]  
