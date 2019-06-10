@@ -31,7 +31,7 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 1. **Learning to Select, Track, and Generate for Data-to-Text**  
    Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, *ACL* 2019.  
-   [pdf]  [[bib](bibtex.html#iso-et-al2019a)  
+   [pdf]  [[bib](bibtex.html#iso-et-al2019a)]  
 
 1. **Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *AAAI* 2019.  
