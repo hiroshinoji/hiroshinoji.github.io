@@ -25,6 +25,14 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 ### Publications
 
+1. **Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation**  
+   Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima, and Daisuke Bekki, *ACL* 2019.  
+   [[pdf](https://arxiv.org/pdf/1906.01834.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019b)]  
+
+1. **Learning to Select, Track, and Generate for Data-to-Text**  
+   Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, *ACL* 2019.  
+   [pdf]  [[bib](bibtex.html#iso-et-al2019a)  
+
 1. **Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *AAAI* 2019.  
    [[pdf](https://arxiv.org/pdf/1811.06203.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019a)]  
