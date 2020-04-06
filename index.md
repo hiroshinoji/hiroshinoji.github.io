@@ -25,13 +25,25 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 ### Publications
 
+1. **An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models**  
+   Hiroshi Noji and Hiroya Takamura, *ACL* 2020.  
+   [[pdf]()]  [[bib](bibtex.html#noji-et-al-2020a)]  
+
+1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
+   Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao, *INLG* 2019.  
+   [[pdf](https://www.aclweb.org/anthology/W19-8640.pdf)]  [[bib](bibtex.html#aoki-et-al-2019a)]  
+
 1. **Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation**  
    Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima, and Daisuke Bekki, *ACL* 2019.  
    [[pdf](https://arxiv.org/pdf/1906.01834.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019b)]  
 
+1. **Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation**  
+   Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima, and Daisuke Bekki, *ACL* 2019.  
+   [[pdf](https://www.aclweb.org/anthology/P19-1013.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019b)]  
+
 1. **Learning to Select, Track, and Generate for Data-to-Text**  
    Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, *ACL* 2019.  
-   [pdf]  [[bib](bibtex.html#iso-et-al2019a)]  
+   [[pdf](https://www.aclweb.org/anthology/P19-1202.pdf)]  [[bib](bibtex.html#iso-et-al2019a)]  
 
 1. **Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *AAAI* 2019.  
