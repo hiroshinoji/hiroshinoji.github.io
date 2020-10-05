@@ -26,12 +26,12 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 ### Publications
 
 1. **Learning with Contrastive Examples for Data-to-Text Generation**  
-   \*Yui Uehara, \*Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura and Yusuke Miyao, *COLING* 2020.  
+   \*Yui Uehara, \*Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, *COLING* 2020.  
    \* Equal contributions.  
    [pdf]  [[bib](bibtex.html#uehara-et-al2020a)]  
 
 1. **An empirical analysis of existing systems and datasets toward general simple question answering**  
-   Namgi Han, Goran Topic, Hiroshi Noji, Hiroya Takamura and Yusuke Miyao, *COLING* 2020.  
+   Namgi Han, Goran Topic, Hiroshi Noji, Hiroya Takamura, and Yusuke Miyao, *COLING* 2020.  
    [pdf]  [[bib](bibtex.html#han-et-al2020a)]  
 
 1. **CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters**  
@@ -48,7 +48,7 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
    [[pdf](https://www.aclweb.org/anthology/2020.acl-main.309.pdf)]  [[code](https://github.com/aistairc/lm_syntax_negative)]  [[bib](bibtex.html#noji-and-takamura2020a)]  
 
 1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
-   Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao, *INLG* 2019.  
+   Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, *INLG* 2019.  
    [[pdf](https://www.aclweb.org/anthology/W19-8640.pdf)]  [[bib](bibtex.html#aoki-et-al2019a)]  
    
 1. **Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation**  
