@@ -25,6 +25,12 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 ### Publications
 
+
+1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
+   Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, 
+   *Computer Speech & Language (to appear).*  
+   [pdf]  [[bib](bibtex.html#aoki-et-al2020a)]  
+
 1. **Learning with Contrastive Examples for Data-to-Text Generation**  
    \*Yui Uehara, \*Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, *COLING* 2020.  
    \* Equal contributions.  
