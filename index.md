@@ -25,14 +25,32 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 ### Publications
 
+1. **Learning with Contrastive Examples for Data-to-Text Generation**  
+   \*Yui Uehara, \*Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura and Yusuke Miyao, *COLING* 2020.  
+   \* Equal contributions.  
+   [pdf]  [[bib](bibtex.html#uehara-et-al2020a)]  
+
+1. **An empirical analysis of existing systems and datasets toward general simple question answering**  
+   Namgi Han, Goran Topic, Hiroshi Noji, Hiroya Takamura and Yusuke Miyao, *COLING* 2020.  
+   [pdf]  [[bib](bibtex.html#han-et-al2020a)]  
+
+1. **CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters**  
+   Hicham El Boukkouri, Olivier Ferret, Thomas Lavergne, Hiroshi Noji, Pierre Zweigenbaum, and Jun'ichi Tsujii, *COLING* 2020.  
+   [pdf]  [[bib](bibtex.html#elboukkori-et-al2020a)]  
+
+1. **Learning to Select, Track, and Generate for Data-to-Text**  
+   Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, 
+   *Journal of Natural Language Processing* 2020.  
+   [pdf]  [[bib](bibtex.html#iso-et-al2020a)]  
+
 1. **An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models**  
    Hiroshi Noji and Hiroya Takamura, *ACL* 2020.  
-   [[pdf](https://arxiv.org/pdf/2004.02451.pdf)]  [[code](https://github.com/aistairc/lm_syntax_negative)]  [[bib](bibtex.html#noji-et-al2020a)]  
+   [[pdf](https://www.aclweb.org/anthology/2020.acl-main.309.pdf)]  [[code](https://github.com/aistairc/lm_syntax_negative)]  [[bib](bibtex.html#noji-and-takamura2020a)]  
 
 1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
    Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao, *INLG* 2019.  
    [[pdf](https://www.aclweb.org/anthology/W19-8640.pdf)]  [[bib](bibtex.html#aoki-et-al2019a)]  
-
+   
 1. **Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation**  
    Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima, and Daisuke Bekki, *ACL* 2019.  
    [[pdf](https://www.aclweb.org/anthology/P19-1013.pdf)]  [[bib](bibtex.html#yoshikawa-et-al2019b)]  
@@ -40,6 +58,10 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 1. **Learning to Select, Track, and Generate for Data-to-Text**  
    Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, *ACL* 2019.  
    [[pdf](https://www.aclweb.org/anthology/P19-1202.pdf)]  [[bib](bibtex.html#iso-et-al2019a)]  
+   
+1. **A\* CCG Parsing with a Supertag and Dependency Factored Model**  
+   Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *Journal of Natural Language Processing* 2019.  
+   [[pdf](https://www.jstage.jst.go.jp/article/jnlp/26/1/26_83/_pdf/-char/ja)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2019a)]  
 
 1. **Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference**  
    Masashi Yoshikawa, Koji Mineshima, Hiroshi Noji, and Daisuke Bekki, *AAAI* 2019.  
@@ -70,9 +92,9 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
    <font color="red">6-th ranked among 33 participants.</font>  
    [[pdf](http://universaldependencies.org/conll17/proceedings/pdf/K17-3007.pdf)]  [[bib](bibtex.html#sato-manabe-noji-matsumoto2017a)]  
   
-1. **A* CCG Parsing with a Supertag and Dependency Factored Model**  
+1. **A\* CCG Parsing with a Supertag and Dependency Factored Model**  
    Masashi Yoshikawa, Hiroshi Noji, and Yuji Matsumoto, *ACL* 2017.  
-   [[pdf](https://arxiv.org/pdf/1704.06936.pdf)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
+   [[pdf](https://www.aclweb.org/anthology/P17-1026.pdf)]  [[bib](bibtex.html#yoshikawa-noji-matsumoto2017a)]  
   
 1. **Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing**  
    Ryosuke Kohita, Hiroshi Noji, and Yuji Matsumoto, *EACL* 2017.  
