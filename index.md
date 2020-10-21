@@ -37,7 +37,7 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 
 1. **CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters**  
    Hicham El Boukkouri, Olivier Ferret, Thomas Lavergne, Hiroshi Noji, Pierre Zweigenbaum, and Jun'ichi Tsujii, *COLING* 2020.  
-   [pdf]  [[bib](bibtex.html#elboukkori-et-al2020a)]  
+   [[pdf](https://arxiv.org/pdf/2010.10392.pdf)]  [[bib](bibtex.html#elboukkori-et-al2020a)]  
 
 1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
    Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, 
