@@ -29,11 +29,11 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 1. **Learning with Contrastive Examples for Data-to-Text Generation**  
    \*Yui Uehara, \*Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, *COLING* 2020.  
    \* Equal contributions.  
-   [pdf]  [[bib](bibtex.html#uehara-et-al2020a)]  
+   [[pdf](https://www.aclweb.org/anthology/2020.coling-main.213.pdf)]  [[bib](bibtex.html#uehara-et-al2020a)]  
 
 1. **An empirical analysis of existing systems and datasets toward general simple question answering**  
    Namgi Han, Goran Topic, Hiroshi Noji, Hiroya Takamura, and Yusuke Miyao, *COLING* 2020.  
-   [pdf]  [[bib](bibtex.html#han-et-al2020a)]  
+   [[pdf](https://www.aclweb.org/anthology/2020.coling-main.465.pdf)]  [[bib](bibtex.html#han-et-al2020a)]  
 
 1. **CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters**  
    Hicham El Boukkouri, Olivier Ferret, Thomas Lavergne, Hiroshi Noji, Pierre Zweigenbaum, and Jun'ichi Tsujii, *COLING* 2020.  
@@ -42,12 +42,12 @@ My [dissertation](https://arxiv.org/pdf/1608.00293v1.pdf) was about finding a sy
 1. **Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels**  
    Kasumi Aoki, Akira Miyazawa, Tatsuya Ishigaki, Tatsuya Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao, 
    *Computer Speech & Language*  
-   [[pdf](https://authors.elsevier.com/c/1btM139HpSbfXB)]  [[bib](bibtex.html#aoki-et-al2020a)]  
+   [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230820300875)]  [[bib](bibtex.html#aoki-et-al2020a)]  
 
 1. **Learning to Select, Track, and Generate for Data-to-Text**  
    Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, and Hiroya Takamura, 
    *Journal of Natural Language Processing* 2020.  
-   [pdf]  [[bib](bibtex.html#iso-et-al2020a)]  
+   [[pdf](https://www.jstage.jst.go.jp/article/jnlp/27/3/27_599/_pdf/-char/ja)]  [[bib](bibtex.html#iso-et-al2020a)]  
 
 1. **An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models**  
    Hiroshi Noji and Hiroya Takamura, *ACL* 2020.  
